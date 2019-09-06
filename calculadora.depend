@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1567450689 source:c:\users\gonza_1czsjeo\onedrive\escritorio\laboratorio i\calculadora\operaciones.c
+
+1567451118 source:c:\users\gonza_1czsjeo\onedrive\escritorio\laboratorio i\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1567451040 c:\users\gonza_1czsjeo\onedrive\escritorio\laboratorio i\calculadora\operaciones.h
+
+1567467700 source:c:\users\alumno\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1567467680 c:\users\alumno\desktop\calculadora\operaciones.h
+
+1567467853 source:c:\users\alumno\desktop\calculadora\operaciones.c
+
+1567709973 source:c:\users\gonza_1czsjeo\onedrive\escritorio\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1567709963 c:\users\gonza_1czsjeo\onedrive\escritorio\calculadora\operaciones.h
+
+1567709923 source:c:\users\gonza_1czsjeo\onedrive\escritorio\calculadora\operaciones.c
+
+1567709973 source:c:\users\gonza_1czsjeo\onedrive\escritorio\laboratorio i\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1567709963 c:\users\gonza_1czsjeo\onedrive\escritorio\laboratorio i\tp1\operaciones.h
+
+1567709923 source:c:\users\gonza_1czsjeo\onedrive\escritorio\laboratorio i\tp1\operaciones.c
+
